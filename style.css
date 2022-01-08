@@ -1,0 +1,59 @@
+.bg-red{
+    background-color:red;
+}
+
+.bg-yellow{
+    background-color:yellow;
+}
+
+.bg-beige{
+    background-color: lightblue;
+}
+
+.bg-grey{
+    background-color:grey;
+}
+
+.bg-purple{
+    background-color:purple;
+}
+
+.bg-green{
+    background-color:green;
+}
+
+.bg-orange{
+    background-color:orange;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.font-size-2_5rem{
+    font-size: 2.5rem;
+}
+
+.font-size-1_8rem{
+    font-size: 1.8rem;
+}
+
+.font-size-1_5rem{
+    font-size: 1.5rem;
+}
+
+.text-white{
+    color: white;
+}
+
+.linkbox{
+    position: relative;
+}
+
+.linkbox a{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
